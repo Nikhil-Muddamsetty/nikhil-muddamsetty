@@ -1,10 +1,10 @@
-**Nikhil Muddamsetty**
+# Nikhil Muddamsetty
 
 +91 99372 83317 ● Bengaluru, IND ● [Email](mailto:nikhil.muddamsetty@gmail.com) ● [Github](https://github.com/Nikhil-Muddamsetty)
 
 Results-driven Full-Stack Developer with 2+ years of experience crafting robust, scalable web applications. Proficient in building efficient backend systems, designing user interfaces, and optimizing cloud infrastructure on AWS. Passionate about delivering exceptional user experiences through continuous learning and adaptation.
 
-**SKILLS**
+## SKILLS
 
 **Programming languages:** Javascript, Java, Python
 
@@ -18,9 +18,9 @@ Results-driven Full-Stack Developer with 2+ years of experience crafting robust,
 
 **AWS services:** VPC, EC2, ELB, S3, Secrets manager, Amplify, EBS, SQS, IAM
 
-**EXPERIENCE**
+## EXPERIENCE
 
-**Full Stack Developer** Aug. 2022 - Present
+**Full Stack Developer** - Aug. 2022 - Present
 
 Mool Innovation Labs Pvt. Ltd. | Bengaluru, IND
 
@@ -39,7 +39,7 @@ Mool Innovation Labs Pvt. Ltd. | Bengaluru, IND
   - Leveraged S3 for file storage, Secrets Manager for secure credential management, and Amplify for automated deployments of Next.js web applications.
   - Utilized GitHub Actions for automated Docker image building and deployment.
 
-**Full Stack Developer Intern** Mar. 2021 - Nov. 2021
+**Full Stack Developer Intern** - Mar. 2021 - Nov. 2021
 
 Mool Innovation Labs Pvt. Ltd. | Bengaluru, IND
 
