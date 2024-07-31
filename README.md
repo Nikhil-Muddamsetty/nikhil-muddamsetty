@@ -1,46 +1,55 @@
-# Getting Started with Create React App
+**Nikhil Muddamsetty**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
++91 99372 83317 ● Bengaluru, IND ● [Email](mailto:nikhil.muddamsetty@gmail.com) ● [Github](https://github.com/Nikhil-Muddamsetty)
 
-## Available Scripts
+Results-driven Full-Stack Developer with 2+ years of experience crafting robust, scalable web applications. Proficient in building efficient backend systems, designing user interfaces, and optimizing cloud infrastructure on AWS. Passionate about delivering exceptional user experiences through continuous learning and adaptation.
 
-In the project directory, you can run:
+**SKILLS**
 
-### `npm start`
+**Programming languages:** Javascript, Java, Python
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Backend:** Node JS, Nest JS, Express JS, Molecular JS
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Frontend:** Next JS, React JS, HTML, CSS
 
-### `npm test`
+**Javascript library:** Axios, Redux, Redux toolkit, Passport, JWT
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Database:** MongoDB, PostgreSQL
 
-### `npm run build`
+**AWS services:** VPC, EC2, ELB, S3, Secrets manager, Amplify, EBS, SQS, IAM
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**EXPERIENCE**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Full Stack Developer** Aug. 2022 - Present
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Mool Innovation Labs Pvt. Ltd. | Bengaluru, IND
 
-### `npm run eject`
+- Designed and developed microservices using Molecular.js for various core modules of mool’s Payroll software (e.g., Declarations, Proof Upload, Attendance, Payroll).
+- Implemented robust JWT authentication and authorization with features such as access token, and refresh token from the ground up to enhance the security of the mool applications.
+- Implemented key third-party integrations to enhance platform functionality and streamline processes:
+  - Cashfree payment gateway for secure transactions and cashfree payout for bulk salary transfer.
+  - SendGrid API for automated email communication and email notification.
+  - Twilio API for real-time SMS notifications and 2-factor authentication.
+  - Zoop One API for Aadhaar-based e-document signing.
+  - Zoho Bigin to improve customer relationship management.
+- Managed and deployed code across production, staging, and development environments on AWS:
+  - Created and maintained secure VPCs with proper security groups.
+  - Utilized EC2 instances and Docker containers for efficient resource utilization.
+  - Implemented Elastic Load Balancing (ELB) and target groups for efficient traffic routing.
+  - Leveraged S3 for file storage, Secrets Manager for secure credential management, and Amplify for automated deployments of Next.js web applications.
+  - Utilized GitHub Actions for automated Docker image building and deployment.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Full Stack Developer Intern** Mar. 2021 - Nov. 2021
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Mool Innovation Labs Pvt. Ltd. | Bengaluru, IND
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Created a variety of React components and combined them to form complete web pages
+- Implemented the visual design elements and layout provided by the designer precisely.
+- Integrated APIs with the front end for a seamless user experience.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**EDUCATION**
 
-## Learn More
+**Odisha University of Technology and Research**| Master of Computer Application Aug. 2022
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- GPA: 9.6/10
+- Member of Ziarza Tech Club
